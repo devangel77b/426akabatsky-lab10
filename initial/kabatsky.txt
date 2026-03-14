@@ -1,0 +1,8 @@
+1. This is a review of Kabatsky, Cetrulo, Krasnopolsky, Paszkiewicz, Patil, and Malhotra's manuscript "Detection of internal flaws in conductive 3D printed materials using voltage mapping". I recommend rejection.
+
+2. The manuscript modeled a 2D domain by discretizing it using a 6x6 resistor grid in the popular educational app Tinkercad. While this could be a novel use of Tinkercad, the manuscript does not sufficiently explore issues of resolution, discretization grid size, and validity of this method to actual real 2D conduction problems. Completely absent is any consideration of the effects of grid size, the relative size of the grid and the crack, spatial size versus conductance, etc.
+
+3. The "measurements" are potentials estimated by the Tinkercad program. No explanation of what algorithm Tinkercad uses or how it works is given. The "measuremetns" are also extremely coarse, consisting of at most 9 points out of 36 in the full 6x6 grid. No attempt is made to actually draw a map (despite the title of this manuscript).
+
+4. The key algorithm or app (Tinkercad) is not properly cited or source given. Considering this is the entire analysis method this seems dangerously like not sufficiently crediting them. In fact, the only reference given is a physics textbook, despite a wealth of published information about this and similar problems (including an entire issue of J S&E).
+
